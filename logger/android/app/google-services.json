@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "250597913075",
+    "firebase_url": "https://keyloggerbase-b2cea-default-rtdb.firebaseio.com",
+    "project_id": "keyloggerbase-b2cea",
+    "storage_bucket": "keyloggerbase-b2cea.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:250597913075:android:ea92d0c14e2dca4523a286",
+        "android_client_info": {
+          "package_name": "com.logger.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFWWkcaH5oVREVKKm6-GYW1BDoqrQzGoA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:250597913075:android:a28855329808a68723a286",
+        "android_client_info": {
+          "package_name": "com.logger.com"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFWWkcaH5oVREVKKm6-GYW1BDoqrQzGoA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
