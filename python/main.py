@@ -1,12 +1,13 @@
-import subprocess
+from subprocess import call
+
+
 import sys
 
 def run_with_subprocess():
     
-    process1 = subprocess.Popen([sys.executable, 'catch_the_chicken.py'])
-    process2 = subprocess.Popen([sys.executable, 'servicefake.py'])
+    call(["python", 'catch_the_chicken.py'])
+    call(["python", 'servicefake.py'])
     
     
-    process1.wait()
-    process2.wait()
+    
 run_with_subprocess()
