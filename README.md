@@ -36,11 +36,22 @@ For Software:
 ### Implementation
 For Software:
  - Using the pygame libary the chicken game is developed.
- - The keyboard library listens to the keystrokes in the keylogger program
+ - The keyboard library listens to the keystrokes in the keylogger program.
+ - Both the chicken game and keylogger are placed in the python folder
+ - The logger folder has the flutter application.
+ - The  logger is a simple flutter-firebase application.
+
+ 
+# Installation
+ 1. First, create a [firebase project](https://support.google.com/appsheet/answer/10104995?hl=en) named "keylogger".
+ 2. Next, download the project credential and add to the keylogger "servicefake.py".
+ 3. create a [firestore database](https://firebase.google.com/docs/firestore/quickstart).
+ 4. The flutter application is in the logger folder. 
+ 5. Use terminal to connect firebase to [flutter](https://firebase.google.com/docs/flutter/setup?platform=ios).you don't have to edit the flutter  code.
+ 6. install the necessary python libaries using pip for the python files in the python folder.
 
  -
-# Installation
-[commands]
+
 
 # Run
 [commands]
@@ -62,32 +73,19 @@ For Software:
 ![Workflow](Add your workflow/architecture diagram here)
 *Add caption explaining your workflow*
 
-For Hardware:
 
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
 
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
 
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
 
-![Build](Add photos of build process here)
-*Explain the build steps*
 
-![Final](Add photo of final product here)
-*Explain the final build*
 
 ### Project Demo
 # Video
 [Add your demo video link here]
 *Explain what the video demonstrates*
 
-# Additional Demos
-[Add any extra demo materials/links]
+
+
 
 ## Team Contributions
 - [Name 1]: [Specific contributions]
