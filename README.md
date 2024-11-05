@@ -50,47 +50,29 @@ For Software:
  5. Use terminal to connect firebase to [flutter](https://firebase.google.com/docs/flutter/setup?platform=ios).you don't have to edit the flutter  code.
  6. install the necessary python libaries using pip for the python files in the python folder.
 
- -
+ 
 
 
-# Run
-[commands]
 
-### Project Documentation
-For Software:
+
+
+
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+![log txt](https://github.com/user-attachments/assets/3e9c8dd9-f7b3-42e8-9cef-9ca696cacc81)
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+![chicken game2](https://github.com/user-attachments/assets/b9057ab9-80ee-4361-9076-5a3551bdf266)
 
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
-
-
-
-
-
-
-
-### Project Demo
-# Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+![chicken_game1](https://github.com/user-attachments/assets/39524915-c46c-4a23-96d5-de633e589268)
 
 
 
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- Ancel Jomon
+- Jyothish K
+
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
