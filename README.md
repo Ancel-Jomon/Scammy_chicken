@@ -21,6 +21,7 @@ This Project doesn't actually solve any problem but probably creates tonnes. A s
 
 ### The Solution (that nobody asked for)
 A chicken game runs in the foreground,with its own fun elements. While another subprocess calls the keylogger.The chicken game includes a chicken which runs across the game window .The player is supposed to catch the chicken by clicking on it. The keylogger runs even if you close the chicken game, the keylogger runs in the background listening to their key strokes. The keystrokes are then send to firebase database .The flutter app connected with firebase can then list out their typing history for you.😎
+### Video Demo
 
 ## Technical Details
 ### Technologies/Components Used
